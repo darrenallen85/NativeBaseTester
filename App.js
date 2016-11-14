@@ -30,7 +30,7 @@ class App extends Component {
     const b= <View>
             <MyHeader/>
           </View>
-    return b
+    return a
   }
 
 }
